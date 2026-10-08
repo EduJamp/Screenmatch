@@ -1,0 +1,7 @@
+spring.application.name=screenmatch
+spring.datasource.url=jdbc:postgresql://localhost:5432/screenmatch
+spring.datasource.username=tu_usuario_aqui
+spring.datasource.password=tu_contraseña_aqui
+spring.datasource.driver-class-name=org.postgresql.Driver
+hibernate.dialect=org.hibernate.dialect.HSQLDialect
+spring.jpa.hibernate.ddl-auto=update
